@@ -3,7 +3,7 @@
 ## Exercice 1
 * Créez une fonction PHP qui affiche une boîte d’alerte à partir de la fonction JavaScript
   dont la syntaxe est alert("chaine_de caractères") . Cette fonction peut être appelée avec
-  comme paramètre le texte du message à afficher. Elle est particulièrement utile pour affi-
+  comme paramètre le texte du message à afficher. Elle est particulièrement utile pour affi
   cher des messages d’erreur de manière élégante, sans que ces derniers restent écrits dans
   la page.
   
